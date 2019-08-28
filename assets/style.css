@@ -1,0 +1,59 @@
+
+
+    
+    body {
+    width:50%;
+    color: white;
+    font-family: 'Righteous', cursive;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/62/74/2157ab321180285.jpg");
+}
+
+
+@media (min-width:700px) {
+    body {width:100%}
+}
+vw {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+/* Standard syntax */
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+a {
+    padding: 6px 12px 6px 12px;
+}
+     #heading {
+	transform: rotateX(9deg)
+		rotateY(5deg)
+		rotateZ(9deg);
+	transform-origin: 79% 2890%;
+}
+.he {
+	transform: rotateX(9deg)
+		rotateY(5deg)
+		rotateZ(9deg);
+	transform-origin: 79% 2890%;
+}
