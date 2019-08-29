@@ -1,4 +1,4 @@
-[![Never Ending Travel](http://www.talashme.com/wp-content/uploads/2014/01/Skardu.jpg)](https://github.com/ameerhamzahah/webco.io)
+[![Never Ending Travel](http://www.talashme.com/wp-content/uploads/2014/01/Skardu.jpg)](https://ameerhamzahah.github.io/webco.io/)
 
 # Bootstrap 4 & Material Design - Magazine Template 
 
