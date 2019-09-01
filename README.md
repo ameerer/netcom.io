@@ -1,8 +1,8 @@
 [![Never Ending Travel](http://www.talashme.com/wp-content/uploads/2014/01/Skardu.jpg)](https://ameerhamzahah.github.io/webco.io/)
 
-# Bootstrap 4 & Material Design - Magazine Template 
+# Never Ending travel
 
-Free, responsive Magazine template containing many types of magazine newsfeeds and components designed for presentation huge amount of news. Built with the newest Bootstrap 4 and Material Design. MIT license – free for personal and commercial use.
+My website contains many types of magazine newsfeeds and components designed for travelers.
 
 ________
 
